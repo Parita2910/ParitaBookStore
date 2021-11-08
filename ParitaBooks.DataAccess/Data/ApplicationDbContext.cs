@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ParitaBookStore.Data
+namespace ParitaBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

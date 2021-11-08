@@ -1,6 +1,6 @@
 using System;
 
-namespace ParitaBookStore.Models
+namespace ParitaBookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {
