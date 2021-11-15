@@ -21,7 +21,7 @@ namespace ParitaBooks.DataAccess.Repository
 
         public void update(Category category)
         {
-            var objFromDb = _db.categories.FirstOrDefault(s => s.Id == category.Id);
+            var objFromDb = _db.Categories.FirstOrDefault(s => s.Id == category.Id);
             if(objFromDb != null)
             {
                 objFromDb.Name = category.Name;
