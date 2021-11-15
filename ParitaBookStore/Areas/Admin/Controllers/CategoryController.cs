@@ -1,5 +1,7 @@
 ﻿using Abp.Domain.Uow;
 using Microsoft.AspNetCore.Mvc;
+using ParitaBooks.Models;
+using ParitaBooks.DataAccess.Repository.IRepository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace ParitaBookStore.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

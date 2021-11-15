@@ -75,7 +75,7 @@ Date:- 13/11/2021
 9:06 - default project is ParitaBookStore so it showing error 
 9:06 - select the ParitaBooks.DataAccess
 9:07 - run the command add-migration AddDefaultIdentityMigration
-my migration folder name is :- 20211115021125_AddDefaultIdentityMigration
+//my migration folder name is :- 20211115021125_AddDefaultIdentityMigration
 9:20 - to update the database run the command - update-database
 9:20 - successfully build 
 9:21 - checked the updated table in SQL server object explorer
@@ -86,7 +86,7 @@ run successfully.
 9:25 - created the new class file in .Models project.
 9:26 - modified the code.
 9:30 - added the migration via console by command - add-migration AddCategoryToDb
-my migration folder name is :- 20211115022846_AddCategoryToDb
+//my migration folder name is :- 20211115022846_AddCategoryToDb
 9:35 - modify the applicationDbContext.cs file
 9:38 - re-run the command - add-migration AddCategoryToDb
 9:40 - edited the migrated file 20211115022846_AddCategoryToDb and checked the updated database 
