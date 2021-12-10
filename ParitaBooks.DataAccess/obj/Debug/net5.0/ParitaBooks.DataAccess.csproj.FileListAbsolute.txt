@@ -1,0 +1,49 @@
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.deps.json
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.pdb
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.AssemblyInfo.cs
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.pdb
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Models.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Models.pdb
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.deps.json
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.pdb
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Models.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Models.pdb
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.AssemblyInfo.cs
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.CopyComplete
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.pdb
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.deps.json
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.DataAccess.pdb
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Models.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Models.pdb
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\bin\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.AssemblyInfo.cs
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.pdb
