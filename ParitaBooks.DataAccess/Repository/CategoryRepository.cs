@@ -1,6 +1,5 @@
 ﻿using ParitaBooks.DataAccess.Repository.IRepository;
 using ParitaBooks.Models;
-using ParitaBooks.DataAccess.Repository.IRepository;
 using ParitaBookStore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
@@ -19,10 +18,10 @@ namespace ParitaBooks.DataAccess.Repository
             _db = db;
         }
 
-        public void update(Category category)
+        public void Update(Category category)
         {
             var objFromDb = _db.Categories.FirstOrDefault(s => s.Id == category.Id);
-            if(objFromDb != null)
+            if (objFromDb != null)
             {
                 objFromDb.Name = category.Name;
                 _db.SaveChanges();
