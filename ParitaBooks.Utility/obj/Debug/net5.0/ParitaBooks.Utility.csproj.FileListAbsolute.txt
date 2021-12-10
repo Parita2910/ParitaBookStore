@@ -1,0 +1,36 @@
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.deps.json
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ref\ParitaBooks.Utility.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.AssemblyInfo.cs
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ref\ParitaBooks.Utility.dll
+C:\Users\Pari\source\repos\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.deps.json
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ref\ParitaBooks.Utility.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.AssemblyInfo.cs
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ref\ParitaBooks.Utility.dll
+C:\Users\Jay\Downloads\ParitaBookStore\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.deps.json
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ref\ParitaBooks.Utility.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\bin\Debug\net5.0\ParitaBooks.Utility.pdb
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.csproj.AssemblyReference.cache
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.AssemblyInfo.cs
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ref\ParitaBooks.Utility.dll
+C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.Utility\obj\Debug\net5.0\ParitaBooks.Utility.pdb
