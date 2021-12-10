@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c36hBme4fJO3jPsjljwL92It1TrJ5nwtKS85/JwZykWZWqVQohOb2Czk0COIu1YfVa12zm9vbD4AXt+ozQV19Q==",
+  "dgSpecHash": "V4Ed3LpAz4VnRIPHPel55mr27vp6i+/VtPuacEezYxjKtchXxPtuljespX3baoYFZR4AwUgaUGmWJPgig/AntA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.DataAccess\\ParitaBooks.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.DataAccess\\ParitaBooks.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pari\\.nuget\\packages\\antlr\\3.4.1.9004\\antlr.3.4.1.9004.nupkg.sha512",
     "C:\\Users\\Pari\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

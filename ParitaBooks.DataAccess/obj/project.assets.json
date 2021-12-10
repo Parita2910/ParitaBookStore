@@ -8962,11 +8962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.DataAccess\\ParitaBooks.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.DataAccess\\ParitaBooks.DataAccess.csproj",
       "projectName": "ParitaBooks.DataAccess",
-      "projectPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.DataAccess\\ParitaBooks.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.DataAccess\\ParitaBooks.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Pari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8983,11 +8983,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj": {
-              "projectPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj"
+            "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj": {
+              "projectPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj"
             },
-            "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj": {
-              "projectPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj"
+            "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj": {
+              "projectPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj"
             }
           }
         }

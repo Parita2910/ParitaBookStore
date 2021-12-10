@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj": {}
+    "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj": {
+    "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj",
         "projectName": "ParitaBooks.Utility",
-        "projectPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj",
+        "projectPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\ParitaBooks.Utility.csproj",
         "packagesPath": "C:\\Users\\Pari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pari\\AppData\\Roaming\\NuGet\\NuGet.Config",

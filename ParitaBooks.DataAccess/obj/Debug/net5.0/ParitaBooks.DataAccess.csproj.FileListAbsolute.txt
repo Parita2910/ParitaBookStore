@@ -47,3 +47,4 @@ C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAcce
 C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.dll
 C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ref\ParitaBooks.DataAccess.dll
 C:\Users\Pari\Downloads\ParitaBookStore (1)\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.pdb
+C:\Users\Pari\Source\Repos\ParitaBookStore\ParitaBooks.DataAccess\obj\Debug\net5.0\ParitaBooks.DataAccess.csproj.CopyComplete

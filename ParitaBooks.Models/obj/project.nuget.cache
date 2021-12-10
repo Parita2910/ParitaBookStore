@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJRRNJuyo1rptu6lDSi/4fQjmZkugNvqd9QpTTezHqkzxGTlzFD86ITkklhuyoKDvZPGvz8YwjSKZ9mcdy3Bug==",
+  "dgSpecHash": "fylNN5XxbRm7mZVF3yNEqgzOs0FiBMDd3z9vXRkEzd2pGazWXhOWlgzB3nzRa+ixCVocSxsja1W8miDy6n3qdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj",
+  "projectFilePath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pari\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Pari\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -6358,11 +6358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj",
       "projectName": "ParitaBooks.Models",
-      "projectPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj",
+      "projectPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Models\\ParitaBooks.Models.csproj",
       "packagesPath": "C:\\Users\\Pari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pari\\Downloads\\ParitaBookStore (1)\\ParitaBookStore\\ParitaBooks.Models\\obj\\",
+      "outputPath": "C:\\Users\\Pari\\Source\\Repos\\ParitaBookStore\\ParitaBooks.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pari\\AppData\\Roaming\\NuGet\\NuGet.Config",
